@@ -1,0 +1,6 @@
+
+“TaxPaymentAnalysis” we used the approach of secondary sort for sorting input. 
+In the sorting phase, the input file is sorted based on the sorting order specified by the user.
+
+First it sort the Primary Key i.e., state in ascending order[A to Z] 
+Then sort the Secondary Key i.e., tax-amount in descending order [Max to Min].
