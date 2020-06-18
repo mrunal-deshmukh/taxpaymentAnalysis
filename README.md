@@ -30,3 +30,5 @@ bin/spark-submit --class SparkApp --master <spark_master_url>  SparkDataJava-1.0
 ```shell script
 bin/spark-submit --class SparkApp --master spark://localhost:7077 --conf spark.eventLog.enabled=true SparkDataJava-1.0-SNAPSHOT-jar-with-dependencies.jar  -i hdfs://localhost:9000/user/mrunaldeshmukh/datafiles/ -o hdfs://localhost:9000/user/mrunaldeshmukh/spark-output -c hdfs://localhost:9000/user/mrunaldeshmukh/zips/uszips.csv
 ```
+
+  
