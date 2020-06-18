@@ -1,5 +1,7 @@
 
-# taxpaymentAnalysis
+# TaxpaymentAnalysis 
+
+## Following Steps provide details on how to run dataapp for cleaning, joining and mapping data using Spark/HDFS integration.
 
 ## Pre-requisites
 1. Setup Java 8 and Apache Maven(https://maven.apache.org/install.html) to build code.
